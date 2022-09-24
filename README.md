@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋 I'm Mary and I am currently transitioning into tech from a non-technical background.
 
-<!--
-**DXMary/DXMary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tech | Data Privacy | Software Development 
 
-Here are some ideas to get you started:
+A Tech enthusiast and entrepreneur working in London, UK. By day I am a Crative Director at Webymar and by night I am working on some exciting projects!!. I aim to talk about all things tech, data privacy, coding and web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I hope you will come along with me on this exciting journey!!
+
+Skills: PYTHON, SQL & REACT
+
+- 🔭 I’m currently working on my technical, problem solving, leadership and communication skills.
+- 🌱 I’m currently on a Cyber Security traineership programme with IT Career Switch.
+- 📫 How to reach me: diomandemaryam@hotmail.com
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I speak 4 different languages. So do not be afraid to reach out!
