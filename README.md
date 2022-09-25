@@ -1,4 +1,4 @@
-<h1 align="center">### Hi there 👋 I'm Mary and I am currently transitioning into tech from a non-technical background.
+<h1 align="center">### Hi there 👋 I'm Mary and I am currently transitioning into tech from a non-technical background. </h1>
 
 Tech | Data Privacy | Software & Web Development | Cyber Security
 
