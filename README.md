@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Mary and I am currently transitioning into tech from a non-technical background.
+<p align="center">### Hi there 👋 I'm Mary and I am currently transitioning into tech from a non-technical background. <\p>
 
 Tech | Data Privacy | Software & Web Development | Cyber Security
 
