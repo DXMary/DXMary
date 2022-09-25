@@ -7,8 +7,8 @@ A Tech enthusiast and entrepreneur working in London, UK. By day I am a Crative 
 I hope you will come along with me on this exciting journey!!
 
 Skills: PYTHON, SQL & REACT
-
-- 🔭 I’m currently working on my technical, problem solving, leadership and communication skills. <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+- 🔭 I’m currently working on my technical, problem solving, leadership and communication skills. 
 - 🌱 I’m currently on a Cyber Security traineership programme with [IT Career Switch](url). 
 - 📫 How to reach me: diomandemaryam@hotmail.com 
 - 😄 Pronouns: she/her
