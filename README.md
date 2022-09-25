@@ -13,7 +13,7 @@ My name is Mary and I am a neurodivergent tech enthusiast and entrepreneur worki
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I’m currently on a Cyber Security Analyst traineership programme with [IT Career Switch](https://www.linkedin.com/company/it-career-switch/mycompany/).\
 🌱 &nbsp;I'm on track for learning more about Python, Data Analysis, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Web Design, Social Media Margeting and Photography.\
+✍️ &nbsp;In my free time, I pursue Web Design, Social Media Marketing and Photography.\
 💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
 ⚡ &nbsp;Fun fact: I speak 4 different languages. So do not be afraid to reach out!\
 ✉️ &nbsp;You can shoot me an email at diomandemaryam@hotmail.com!\
