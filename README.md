@@ -2,7 +2,7 @@
 
 <h3 align="center">Cyber Security | Data Privacy | Software & Web Development | Tech </h3>
 
-My name is Mary and I am a tech enthusiast and entrepreneur working in London, UK. I am currently transitioning into tech from a non-technical background. By day I am a Founder & Creative Director at [Webymar](https://www.webymar.com/) and by night I am working on some exciting projects and learning new things!! I aim to talk about all things tech, data privacy, coding, web development and cyber security.
+My name is Mary and I am a neurodivergent tech enthusiast and entrepreneur working in London, UK. I am currently transitioning into tech from a non-technical background. By day I am a Founder & Creative Director at [Webymar](https://www.webymar.com/) and by night I am working on some exciting projects and learning new things!! I aim to talk about all things tech, data privacy, coding, web development and cyber security.
 
 <h4>I hope you will come along with me on this exciting journey!!
 
@@ -11,13 +11,29 @@ My name is Mary and I am a tech enthusiast and entrepreneur working in London, U
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I’m currently on a Cyber Security traineership programme with [IT Career Switch](https://www.linkedin.com/company/it-career-switch/mycompany/).\
+🎓 &nbsp;I’m currently on a Cyber Security Analyst traineership programme with [IT Career Switch](https://www.linkedin.com/company/it-career-switch/mycompany/).\
 🌱 &nbsp;I'm on track for learning more about Python, Data Analysis, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Web Design, Social Media Margeting and Photography.\
 💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at diomandemaryam@hotmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Fell free to check out my business website: [Webymar.](https://www.webymar.com/)\
-⚡ &nbsp;Fun fact: I speak 4 different languages. So do not be afraid to reach out!
+⚡ &nbsp;Fun fact: I speak 4 different languages. So do not be afraid to reach out!\
+✉️ &nbsp;You can shoot me an email at diomandemaryam@hotmail.com!\
+📄 &nbsp;Fell free to check out my business website: [Webymar](https://www.webymar.com/).
+
+<h4>By the way here are some of my statistics</h4>
+
+<details>
+  <summary>📊 GitHub Profile Stats</summary>
+  <br/>
+  <a href="https://github.com/DXMary/github-readme-stats"><img alt="Mary's Github Stats" src="https://github-readme-stats.vercel.app/api?username=DXMary&show_icons=true&&theme=github_dark&count_private=true&hide=" /></a>
+</details>
+
+<details> 
+  <summary>💻 Most used languages</summary>
+  <br/>
+  <a href="https://github.com/DXMary/github-readme-stats"><img alt="Mary's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DXMary&langs_count=10&layout=compact#" /></a>
+  <br/>
+  <b>Note:</b> This chart is only a metric of which languages my public code on GitHub consists of and does not reflect my experience or skill level.
+</details>
 
 <h4>Tech Stack</h4>
 
@@ -29,5 +45,4 @@ My name is Mary and I am a tech enthusiast and entrepreneur working in London, U
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![InDesign](https://img.shields.io/badge/-InDesign-05122A?style=flat&logo=adobe-indesign)
-
 
