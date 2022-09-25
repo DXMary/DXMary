@@ -1,4 +1,4 @@
-<h2 align="center">Hi there 👋. Welcome to my profile! </h2>
+<h2 align="center">Hey there 👋. Welcome to my profile! </h2>
 
 <h3 align="center">Cyber Security | Data Privacy | Software & Web Development | Tech </h3>
 
@@ -17,7 +17,8 @@ My name is Mary and I am a neurodivergent tech enthusiast and entrepreneur worki
 💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
 ⚡ &nbsp;Fun fact: I speak 4 different languages. So do not be afraid to reach out!\
 ✉️ &nbsp;You can shoot me an email at diomandemaryam@hotmail.com!\
-📄 &nbsp;Fell free to check out my business website: [Webymar](https://www.webymar.com/).
+📄 &nbsp;Fell free to check out my business website: [Webymar](https://www.webymar.com/).\
+😄 &nbsp;Find me on [Linkedin](https://www.linkedin.com/in/maryamdiomande/). Let's connect!
 
 <h4>By the way here are some of my statistics</h4>
 
