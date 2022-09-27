@@ -11,7 +11,6 @@ My name is Mary and I am a neurodivergent Backend Developer, tech enthusiast and
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif"/>
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I’m currently on a Cyber Security Analyst traineership programme with [IT Career Switch](https://www.linkedin.com/company/it-career-switch/mycompany/).\
 🌱 &nbsp;I'm on track for learning more about Python, Data Analysis, and Cloud Architecture.\
 ✍️ &nbsp;In my free time, I pursue Web Design, Social Media Marketing and Photography.\
 💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
