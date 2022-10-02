@@ -2,7 +2,7 @@
 
 <h3 align="center">Data Privacy | Software & Web Development | Tech </h3>
 
-My name is Mary and I am a neurodivergent Backend Developer, tech enthusiast and entrepreneur based in London, UK. By day I am a Founder & CEO at [Webymar](https://www.webymar.com/) and a Lead Backend Developer at [opportunityM](https://www.linkedin.com/company/opportunitym/mycompany/). By night I work on intriguing projects and pick up new skills!! My goal is to discuss everything tech-related, including data privacy, coding and web development.
+My name is Mary and I am a neurodivergent Backend Developer, tech enthusiast and entrepreneur based in London, UK. By day I am a Founder & CEO at [Webymar](https://www.webymar.com/) and a Lead Backend Developer at [opportunityM](https://www.linkedin.com/company/opportunitym/mycompany/). By night I work on intriguing projects and pick up new skills!!
 
 <h4>I hope you will come along with me on this exciting journey!!
 
